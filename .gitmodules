@@ -1,3 +1,6 @@
 [submodule "hjbsk-build_deploy_app_flask"]
 	path = hjbsk-build_deploy_app_flask
 	url = https://github.com/Labrosvel/hjbsk-build_deploy_app_flask.git
+[submodule "flask_assignment"]
+	path = flask_assignment
+	url = https://github.com/Labrosvel/flask_assignment.git
